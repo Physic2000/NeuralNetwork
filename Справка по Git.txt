@@ -22,6 +22,4 @@
 	1. git add *
 	2. git commit -m "Добавлена новая фича"
 	3. git push
-	4. ?????????
-	5. PROFIT!!!
 
