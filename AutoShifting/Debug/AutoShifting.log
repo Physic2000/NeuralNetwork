@@ -1,0 +1,28 @@
+﻿Build started 03.09.2021 16:06:04.
+     1>Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\AutoShifting\AutoShifting.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\AutoShifting.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AutoShifting.cpp
+         AutoShifting.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2227): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\xutility(2212) : see declaration of 'std::_Copy_impl'
+                 e:\internetfiles\yandexdisk\!\visual studio 2010\projects_c++\neuralnetwork\autoshifting\autoshifting.cpp(129) : see reference to function template instantiation '_OutIt std::copy<double*,double*>(_InIt,_InIt,_OutIt)' being compiled
+                 with
+                 [
+                     _OutIt=double *,
+                     _InIt=double *
+                 ]
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\Debug\AutoShifting.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\AutoShifting.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\Debug\AutoShifting.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\Debug\AutoShifting.lib" /MACHINE:X86 Debug\AutoShifting.obj
+         AutoShifting.vcxproj -> E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\Debug\AutoShifting.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\Debug\AutoShifting.exe;#1" /manifest Debug\AutoShifting.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\AutoShifting.unsuccessfulbuild".
+         Touching "Debug\AutoShifting.lastbuildstate".
+     1>Done Building Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\AutoShifting\AutoShifting.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.88

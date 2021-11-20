@@ -1,0 +1,33 @@
+﻿Build started 12.09.2020 13:04:40.
+     1>Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\ParabolicDataPreprocessing\ParabolicDataPreprocessing.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ParabolicDataPreprocessing.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Approximation.cpp Matrixes3.cpp ParabolicDataPreprocessing.cpp SystemsOfLinearEquations.cpp
+         SystemsOfLinearEquations.cpp
+         ParabolicDataPreprocessing.cpp
+         Matrixes3.cpp
+         Approximation.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ParabolicDataPreprocessing.exe.embed.manifest.res" Debug\ParabolicDataPreprocessing_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\Debug\ParabolicDataPreprocessing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ParabolicDataPreprocessing.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\Debug\ParabolicDataPreprocessing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\Debug\ParabolicDataPreprocessing.lib" /MACHINE:X86 Debug\ParabolicDataPreprocessing.exe.embed.manifest.res
+         Debug\Approximation.obj
+         Debug\Matrixes3.obj
+         Debug\ParabolicDataPreprocessing.obj
+         Debug\SystemsOfLinearEquations.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ParabolicDataPreprocessing.exe.embed.manifest" /manifest Debug\ParabolicDataPreprocessing.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         ParabolicDataPreprocessing.vcxproj -> E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\Debug\ParabolicDataPreprocessing.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ParabolicDataPreprocessing.unsuccessfulbuild".
+         Touching "Debug\ParabolicDataPreprocessing.lastbuildstate".
+     1>Done Building Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Projects_C++\NeuralNetwork\ParabolicDataPreprocessing\ParabolicDataPreprocessing.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.35

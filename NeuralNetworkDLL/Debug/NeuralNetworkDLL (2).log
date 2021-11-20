@@ -1,0 +1,18 @@
+﻿Build started 05.08.2020 16:27:25.
+     1>Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\NeuralNetworkDLL\NeuralNetworkDLL.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\NeuralNetworkDLL.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         NeuralNetworkDLL.vcxproj -> E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\Debug\NeuralNetworkDLL.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\NeuralNetworkDLL.unsuccessfulbuild".
+         Touching "Debug\NeuralNetworkDLL.lastbuildstate".
+     1>Done Building Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\NeuralNetworkDLL\NeuralNetworkDLL.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08

@@ -1,0 +1,17 @@
+﻿Build started 05.08.2020 16:27:25.
+     1>Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\MakeTrainingTestData\MakeTrainingTestData.vcxproj" on node 5 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MakeTrainingTestData.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         MakeTrainingTestData.vcxproj -> E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\Debug\MakeTrainingTestData.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\MakeTrainingTestData.unsuccessfulbuild".
+         Touching "Debug\MakeTrainingTestData.lastbuildstate".
+     1>Done Building Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\MakeTrainingTestData\MakeTrainingTestData.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

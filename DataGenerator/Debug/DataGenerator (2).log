@@ -1,0 +1,17 @@
+﻿Build started 13.08.2020 16:19:27.
+     1>Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\DataGenerator\DataGenerator.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DataGenerator.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         DataGenerator.vcxproj -> E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\Debug\DataGenerator.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\DataGenerator.unsuccessfulbuild".
+         Touching "Debug\DataGenerator.lastbuildstate".
+     1>Done Building Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\DataGenerator\DataGenerator.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.02

@@ -1,0 +1,17 @@
+﻿Build started 05.08.2020 16:27:25.
+     1>Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\DataFilter\DataFilter.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DataFilter.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         DataFilter.vcxproj -> E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\Debug\DataFilter.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\DataFilter.unsuccessfulbuild".
+         Touching "Debug\DataFilter.lastbuildstate".
+     1>Done Building Project "E:\InternetFiles\YandexDisk\!\Visual Studio 2010\Experiments_CPP\NeuralNetwork\DataFilter\DataFilter.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
